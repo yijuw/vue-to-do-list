@@ -1,6 +1,6 @@
 # To-Do List with Vue.js
-
->  A to-do list with Vue.js 
+A to-do list with Vue.js  
+[website](http://vue-todo-list.s3-website-ap-southeast-1.amazonaws.com)
 
 ## Screenshots
 ![screenshot1](screenshots/todo-list.png)
