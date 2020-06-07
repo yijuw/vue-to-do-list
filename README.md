@@ -1,6 +1,14 @@
-# vue-cli
+# To-Do List with Vue.js
 
-> A Vue.js project
+>  A to-do list with Vue.js 
+
+## Screenshots
+![screenshot1](screenshots/todo-list.png)
+
+## Functionalities
+- Add todo
+- Delete todo
+- Show remaining todos as a progress bar 
 
 ## Build Setup
 
